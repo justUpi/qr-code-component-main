@@ -1,0 +1,34 @@
+body{
+  background-color: #E1E5EB;
+  text-align: center;
+}
+img{
+  width: 250px;
+  height: 250px;
+  margin: 15px 15px;
+  border-radius: 10px;
+}
+.card{
+  height: 450px;
+  width: 280px;
+  background-color: #F2F2F2;
+  margin: 8% auto;
+  border-radius: 10px;
+  box-shadow: 0px  2px 20px #D4D4D4;
+}
+.title{
+  font-family: 'Josefin Sans', sans-serif;
+  width: 85%;
+  margin: auto;
+  padding-top: 10px;
+  line-height: 1.5;
+}
+.text{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 13px;
+  width: 85%;
+  margin: auto;
+  padding-top: 15px;
+  font-weight: lighter;
+
+}
